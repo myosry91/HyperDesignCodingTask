@@ -13,12 +13,14 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="4"/>
+
     <TextView
+        android:id="@+id/pre"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:text="Previous Image"
+        android:layout_weight="1"
         android:gravity="center"
-        android:layout_weight="1"/>
+        android:text="Previous Image" />
 
     <ImageView
         android:id="@+id/click_image"

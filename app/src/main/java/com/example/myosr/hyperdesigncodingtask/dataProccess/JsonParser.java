@@ -10,9 +10,7 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-/**
- * Created by hossam on 1/7/17.
- */
+
 
 public class JsonParser {
 
